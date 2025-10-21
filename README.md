@@ -11,7 +11,7 @@ This project explores the science and process of milk pasteurization, including 
 
 ## 👥 Collaborators
 - alileche islem
-- [Collaborator 2]
-- [Collaborator 3]
+- 
+- 
 -
 -
