@@ -16,11 +16,11 @@ This project explores the process of milk pasteurization—a critical step in da
 - **Packaging**: Pasteurized milk is sealed in sterile containers and labeled according to safety standards.
 
 ## 📅 Milestones
-- [1 ] Literature review on pasteurization methods
-- [2 ] Data collection or simulation setup
-- [3 ] Dashboard development
-- [4 ] Testing and validation
-- [5 ] Final report and presentation
+- 1  Literature review on pasteurization methods
+- 2  Data collection or simulation setup
+- 3  Dashboard development
+- 4  Testing and validation
+- 5  Final report and presentation
 
 ## 👥 Collaborators
 - alileche islem
